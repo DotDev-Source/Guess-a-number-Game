@@ -1,6 +1,11 @@
+<h1 align="center">
 
+![hii](https://github.com/MiniatureDev/MiniatureDev/blob/main/mona-whisper.gif?raw=true)
 
-# Guess-a-number-Game
+<Strong>Guess a number Game</Strong>
+
+</h1>
+
 
 A guess a number game made in python
 
